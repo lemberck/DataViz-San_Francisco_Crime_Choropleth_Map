@@ -2,7 +2,7 @@
 
 # San Francisco Crime Choropleth Map
 
- - **Main Objective:** Create a San Francisco Map of the crimes committed in 2016,
+- **Main Objective:** Create a San Francisco Map of the crimes committed in 2016,
 where it is able to visualize the most affected neighborhoods.
 
   The objective of this project is to create a Choropleth map to visualize 
