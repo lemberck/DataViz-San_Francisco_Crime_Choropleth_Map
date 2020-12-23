@@ -2,6 +2,9 @@
 
 # San Francisco Crime Choropleth Map
 
+- **Main Objective:** Create a San Francisco Map of the crimes committed in 2016,
+where it is able to visualize the most affected neighborhoods.
+
   The objective of this project is to create a Choropleth map to visualize 
   crimes registered in San Francisco in 2016 by Neighborhood. This requires
   the Folium Package.
@@ -19,6 +22,8 @@
   the resulting **interactive map** by pasting the notebook link into **https://nbviewer.jupyter.org/**  
   A screenshot is also uploaded of the resulting map.
   
-  **Results:**
+  - **Results:** Interactive Choropleth Map that shows the most affected neighborhoods by color.
+  
+  - **Libraries:** Folium, Pandas, Numpy
 
-  **Keywords:**
+  - **Keywords:** GeoJSON, Data Visualization, Interactive Map
