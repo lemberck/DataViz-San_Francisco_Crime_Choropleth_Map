@@ -16,8 +16,8 @@
   and then apply the Choropleth Map.
   
   PS: As GitHub is not currently compatible with Folium package, we can see
-  the resulting interactive map using https://nbviewer.jupyter.org/ . 
-  A screenshot is also uploaded of the resulting map
+  the resulting **interactive map** by pasting the notebook link into **https://nbviewer.jupyter.org/**  
+  A screenshot is also uploaded of the resulting map.
   
   **Results:**
 
