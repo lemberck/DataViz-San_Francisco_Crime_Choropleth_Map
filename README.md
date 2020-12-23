@@ -20,7 +20,7 @@ where it is able to visualize the most affected neighborhoods.
   
   PS: As GitHub is not currently compatible with Folium package, we can see
   the resulting **interactive map** by pasting the notebook link into **https://nbviewer.jupyter.org/**  
-  A screenshot is also uploaded of the resulting map.
+  A screenshot is also uploaded of the resulting map and can be accessed [HERE](https://github.com/lemberck/DataViz-San_Francisco_Crime_Choropleth_Map/blob/main/San%20Francisco%20Choropleth%20Result.PNG)
   
 - **Results:** Interactive Choropleth Map that shows the most affected neighborhoods by color.
   
