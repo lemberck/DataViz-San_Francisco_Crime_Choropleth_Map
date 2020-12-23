@@ -22,8 +22,8 @@ where it is able to visualize the most affected neighborhoods.
   the resulting **interactive map** by pasting the notebook link into **https://nbviewer.jupyter.org/**  
   A screenshot is also uploaded of the resulting map.
   
-  - **Results:** Interactive Choropleth Map that shows the most affected neighborhoods by color.
+- **Results:** Interactive Choropleth Map that shows the most affected neighborhoods by color.
   
-  - **Libraries:** Folium, Pandas, Numpy
+- **Libraries:** Folium, Pandas, Numpy
 
-  - **Keywords:** GeoJSON, Data Visualization, Interactive Map
+- **Keywords:** GeoJSON, Data Visualization, Interactive Map
